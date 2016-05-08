@@ -1,5 +1,6 @@
 from django.db import models, transaction
 from django.utils.translation import ugettext_lazy as _
+from django.db import connection
 
 from spistresci.products.models import Product
 
@@ -18,19 +19,27 @@ class Store(models.Model):
         modified = modified or []
 
         with transaction.atomic():
+            queries_beggining = len(connection.queries)
+            print('Beggining {}'.format(queries_beggining))
 
             self.__add_products(added)
-            self.__delete_products(deleted)
-            self.__modify_products(modified)
+            queries_after_add = len(connection.queries)
+            print('After add {}'.format(queries_after_add))
 
-            # print('After modify {}'.format(len(connection.queries)))
+            self.__delete_products(deleted)
+            queries_after_delete = len(connection.queries)
+            print('After delete {}'.format(queries_after_delete))
+
+            self.__modify_products(modified)
+            queries_after_modify = len(connection.queries)
+            print('After modify {}'.format(queries_after_modify))
 
             self.last_update_revision = revision_number
             self.save()
 
-            print('{} products added'.format(len(added)))
-            print('{} products deleted'.format(len(deleted)))
-            print('{} products modified'.format(len(modified)))
+            print('{} products added in {} queries'.format(len(added), queries_after_add - queries_beggining))
+            print('{} products deleted in {}  queries'.format(len(deleted), queries_after_delete - queries_after_add))
+            print('{} products modified in {}  queries'.format(len(modified), queries_after_modify - queries_after_delete))
 
     def __add_products(self, products):
         if not products:
@@ -58,7 +67,6 @@ class Store(models.Model):
     def __modify_products(self, products):
         # TODO: change to buld_update? - https://github.com/aykut/django-bulk-update
 
-        # print('Before modify {}'.format(len(connection.queries)))
         if not products:
             return
 
