@@ -30,12 +30,15 @@ Documentation is available at http://spistresci.readthedocs.io/. Moreover each i
 Live Streaming
 --------------
 
-This project is developing during live-coding sessions at https://www.livecoding.tv/noisy/
+This project is developing during live-coding sessions at https://www.livecoding.tv/noisy/, on:
 
 * Mondays, 7 PM - 11 PM (EST)
 * Wednesday, 7 PM - 11 PM (EST)
 * Fridays, 7 PM - 11 PM (EST)
 * Saturdays, when I will get up :)
+
+.. image:: docs/.livecoding_screenshot.png
+
 
 Recordings are avaible: https://www.livecoding.tv/noisy/videos/
 
