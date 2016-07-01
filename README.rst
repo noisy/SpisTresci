@@ -27,6 +27,19 @@ Documentation
 Documentation is available at http://spistresci.readthedocs.io/. Moreover each instance once deployed, has own documentation available at http://docs.<host_url>/
 
 
+Live Streaming
+--------------
+
+This project is developing during live-coding sessions at https://www.livecoding.tv/noisy/
+
+* Mondays, 7 PM - 11 PM (EST)
+* Wednesday, 7 PM - 11 PM (EST)
+* Fridays, 7 PM - 11 PM (EST)
+* Saturdays, when I will get up :)
+
+Recordings are avaible: https://www.livecoding.tv/noisy/videos/
+
+
 LICENCE
 -------
 
