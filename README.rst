@@ -6,17 +6,25 @@ SpisTresci
      :target: https://travis-ci.org/SpisTresci/SpisTresci?branch=master
      :alt: Build Status
 
+.. image:: https://readthedocs.org/projects/spistresci/badge/?version=latest
+     :target: http://spistresci.readthedocs.io/en/latest/?badge=latest
+     :alt: Documentation Status
+
 .. image:: https://badges.gitter.im/Join Chat.svg
    :target: https://gitter.im/SpisTresci/SpisTresci?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-SpisTresci.pl is metasearch engine and price comparison website focusing on ebooks, audiobooks and books, which is dedicated for Polish market.
-In near future project will be renamed and splited into two repositories: Scrooge (or Scrooger?) - generic engine, and SpisTresci.pl - customised website build on Scrooge[r] engine.
+SpisTresci is metasearch engine perfect for building price comparison websites. 
+
+In near future project will be **renamed and splitted** into two repositories: 
+
+- Scrooge (or Scrooger?) - generic price comparison engine
+- SpisTresci.pl - website dedicated for Polish market, build on Scrooge[r] engine, focused on ebooks, audiobooks and books
 
 
 Documentation
 -------------
 
-Documentation is available at docs.<host_url> of each instance, i.e. docs.alpha.spistresci.pl
+Documentation is available at http://spistresci.readthedocs.io/. Moreover each instance once deployed, has own documentation available at http://docs.<host_url>/
 
 
 Setup
