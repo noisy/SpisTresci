@@ -40,7 +40,7 @@ This project is developing during live-coding sessions at https://www.livecoding
 .. image:: docs/.livecoding_screenshot.png
 
 
-Recordings are avaible: https://www.livecoding.tv/noisy/videos/
+Recordings are available: https://www.livecoding.tv/noisy/videos/
 
 
 LICENCE
