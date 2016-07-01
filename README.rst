@@ -10,17 +10,23 @@ SpisTresci
    :target: https://gitter.im/SpisTresci/SpisTresci?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 SpisTresci.pl is metasearch engine and price comparison website focusing on ebooks, audiobooks and books, which is dedicated for Polish market.
+In near future project will be renamed and splited into two repositories: Scrooge (or Scrooger?) - generic engine, and SpisTresci.pl - customised website build on Scrooge[r] engine.
 
 
-Settings
-------------
+Documentation
+-------------
 
-Moved to settings_.
+Documentation is available at docs.<host_url> of each instance, i.e. docs.alpha.spistresci.pl
 
-.. _settings: http://cookiecutter-django.readthedocs.org/en/latest/settings.html
 
-Basic Commands
---------------
+Setup
+-----
+
+..
+
+
+Development
+-----------
 
 Setting Up Your Users
 ^^^^^^^^^^^^^^^^^^^^^
@@ -131,21 +137,13 @@ The testing framework runs Django, Celery (if enabled), Postgres, HitchSMTP (a m
 Deployment
 ----------
 
-We provide tools and instructions for deploying using Docker and Heroku.
-
-Heroku
-^^^^^^
-
-.. image:: https://www.herokucdn.com/deploy/button.png
-    :target: https://heroku.com/deploy
-
-See detailed `cookiecutter-django Heroku documentation`_.
-
-.. _`cookiecutter-django Heroku documentation`: http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-heroku.html
-
 Docker
 ^^^^^^
 
 See detailed `cookiecutter-django Docker documentation`_.
 
 .. _`cookiecutter-django Docker documentation`: http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html
+
+
+LICENCE
+-------
