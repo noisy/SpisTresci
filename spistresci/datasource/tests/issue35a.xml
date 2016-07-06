@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+    <product>
+        <id>1</id>
+        <title><![CDATA[Czerwony Kapturek i inne bajki]]></title>
+        <authors><![CDATA[Grzegorz Kasdepke, Jarosław Mikołajewski]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[9.99]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/czerwony-kapturek-i-trzy-inne-bajki-jaroslaw-mikolajewski,p47411.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/medium/97/77/19/47411-czerwony-kapturek-i-trzy-inne-bajki-jaroslaw-mikolajewski-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-832-680-222-5]]></isbns>
+        <company><![CDATA[Agora SA]]></company>
+        <categories>
+            <category><![CDATA[Dla dzieci]]></category>
+            <category><![CDATA[Bajki i baśnie]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>1</id>
+        <title><![CDATA[Czerwony Kapturek i inne bajki]]></title>
+        <authors><![CDATA[Grzegorz Kasdepke, Jarosław Mikołajewski]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[9.99]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/czerwony-kapturek-i-trzy-inne-bajki-jaroslaw-mikolajewski,p47411.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/medium/97/77/19/47411-czerwony-kapturek-i-trzy-inne-bajki-jaroslaw-mikolajewski-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-832-680-222-5]]></isbns>
+        <company><![CDATA[Agora SA]]></company>
+        <categories>
+            <category><![CDATA[Dla dzieci]]></category>
+            <category><![CDATA[Bajki i baśnie]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>3</id>
+        <title><![CDATA[afryka kazika]]></title>
+        <authors><![CDATA[Łukasz wierzbicki]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[21.00]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/afryka-kazika-lukasz-wierzbicki,p53432.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/card/71/3d/f2/53432-afryka-kazika-lukasz-wierzbicki-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-837-551-245-8]]></isbns>
+        <company><![CDATA[Wydawnictwo BIS]]></company>
+        <categories>
+            <category><![CDATA[dLA DZIECI]]></category>
+            <category><![CDATA[opowieści i opowiadania]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>4</id>
+        <title><![CDATA[Anielka]]></title>
+        <authors><![CDATA[Bolesław Prus]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[14.90]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/anielka-boleslaw-prus,p47412.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/medium/d2/c1/f1/47412-anielka-boleslaw-prus-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-837-699-839-8]]></isbns>
+        <company><![CDATA[Agencja Artystyczna MTJ/SMPB]]></company>
+        <categories>
+            <category><![CDATA[Lektury szkolne]]></category>
+            <category><![CDATA[Powieść, opowiadanie]]></category>
+            <category><![CDATA[Szkoła, edukacja, lektury]]></category>
+            <category><![CDATA[Społeczno-obyczajowa]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>5</id>
+        <title><![CDATA[myśl]]></title>
+        <authors><![CDATA[Bolesław krus]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[16.90]]></price>
+        <productUrl><![CDATA[http://http://www.publio.pl/mysl-jak-oszust-zeby-nie-dac-sie-oszukac-maria-konnikova,p141392.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/card/55/12/23/141392-mysl-jak-oszust-zeby-nie-dac-sie-oszukac-maria-konnikova-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-832-681-859-2, 978-832-681-860-8]]></isbns>
+        <company><![CDATA[Agencja Artystyczna MTJ/SMPB]]></company>
+        <categories>
+            <category><![CDATA[Lektury szkolne]]></category>
+            <category><![CDATA[Powieść, opowiadanie]]></category>
+            <category><![CDATA[Szkoła, edukacja, lektury]]></category>
+            <category><![CDATA[Społeczno-obyczajowa]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>6</id>
+        <title><![CDATA[Czerwony ]]></title>
+        <authors><![CDATA[GrzegorzMikołajewski]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[11.99]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/czerwony-jaroslaw-mikolajewski,p47411.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/medium/97/77/19/47411-czerwony-jaroslaw-mikolajewski-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-832-680-332-5]]></isbns>
+        <company><![CDATA[Agora SA]]></company>
+        <categories>
+            <category><![CDATA[Dla dzieci]]></category>
+            <category><![CDATA[Bajki i baśnie]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>7</id>
+        <title><![CDATA[tak chcę!]]></title>
+        <authors><![CDATA[Bea Ostro]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[59.00]]></price>
+        <productUrl><![CDATA[http://http://www.publio.pl/tak-chce-beata-ostrowicka,p47502.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/card/dc/aa/dd/47502-tak-chce-beata-ostrowicka-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-836-144-456-0]]></isbns>
+        <company><![CDATA[Biblioteka Akustyczna]]></company>
+        <categories>
+            <category><![CDATA[Dla dzieci]]></category>
+            <category><![CDATA[Bajki i baśnie]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>8</id>
+        <title><![CDATA[afryka]]></title>
+        <authors><![CDATA[karol icki]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[2.00]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/afryka-wierzbicki,p53432.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/card/71/3d/f2/53432-afryka-wierzbicki-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-837-551-605-8]]></isbns>
+        <company><![CDATA[Wydawnictwo BIS]]></company>
+        <categories>
+            <category><![CDATA[dLA DZIECI]]></category>
+            <category><![CDATA[opowieści i opowiadania]]></category>
+        </categories>
+    </product>
+    <product>
+        <id>9</id>
+        <title><![CDATA[Anielka i przyjaciele]]></title>
+        <authors><![CDATA[Bolek lolek]]></authors>
+        <formats><![CDATA[mp3]]></formats>
+        <protectionType><![CDATA[FRAUNHOFER]]></protectionType>
+        <price><![CDATA[117.90]]></price>
+        <productUrl><![CDATA[http://www.publio.pl/anielka-rus,p47412.html]]></productUrl>
+        <imageUrl><![CDATA[http://www.publio.pl/files/product/medium/d2/c1/f1/47412-anielkarus-1.jpg]]></imageUrl>
+        <isbns><![CDATA[978-837-679-839-8]]></isbns>
+        <company><![CDATA[Agencja Artystyczna MTJ/SMPB]]></company>
+        <categories>
+            <category><![CDATA[Lektury szkolne]]></category>
+            <category><![CDATA[Powieść, opowiadanie]]></category>
+            <category><![CDATA[Szkoła, edukacja, lektury]]></category>
+            <category><![CDATA[Społeczno-obyczajowa]]></category>
+        </categories>
+    </product>
+</products>
