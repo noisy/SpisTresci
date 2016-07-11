@@ -6,6 +6,17 @@ volumes:
   app_data: {}
 
 services:
+  backup:
+    build: ./dockup
+    volumes:
+      - postgres_data:/postgres_data
+      - postgres_backup:/postgres_backup
+      - app_data:/app_data
+    env_file: ../.env
+    environment:
+      - DOCKUP_PATHS_TO_BACKUP=/postgres_data /postgres_backup /app_data
+      - DOCKUP_S3_BUCKET_NAME=backup.${HOST_ADDRESS}
+
   postgres:
     build: ./postgres
     volumes:
