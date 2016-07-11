@@ -58,7 +58,7 @@ class DataSourceImpl:
                 modified=filtered['modified']
             )
         else:
-            logger.info('[Store:{}] There are no new revision available!')
+            logger.info('[Store:{}] There are no new revision available!'.format(self.store.name))
 
 
 class XmlDataSourceImpl(DataSourceImpl):
